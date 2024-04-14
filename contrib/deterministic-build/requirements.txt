@@ -62,7 +62,7 @@ dnspython==2.0.0 \
 helpdev==0.7.1 \
     --hash=sha256:779a761b18c2d96fb181aa699609f802347806125f2fee2f60dad875a625e38e \
     --hash=sha256:bb62a79acbac141dadf42cadeb92bb7450dd18b9824a62043b6a0b149190db3d
-idna==3.1 \
+idna==3.7 \
     --hash=sha256:5205d03e7bcbb919cc9c19885f9920d622ca52448306f2377daede5cf3faac16 \
     --hash=sha256:c5b02147e01ea9920e6b0a3f1f7bb833612d507592c837a6c49552768f4054e1
 idna_ssl==1.1.0 \
