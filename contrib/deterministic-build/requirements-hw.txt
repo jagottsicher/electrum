@@ -85,7 +85,7 @@ hidapi==0.10.1 \
     --hash=sha256:b1becc9f09c85c473e91cf869b592d5d87fb8b89672988de33776b20b4c53ce1 \
     --hash=sha256:b686b2b547890c8ed17ebeabded0050ce377180a56daefa20822b4d66d3a5dea \
     --hash=sha256:f49a0de45217366b85597c2edb4be8bd61c9f26f533b854b058dded4352dd89d
-idna==2.10 \
+idna==3.7 \
     --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6 \
     --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0
 keepkey==6.3.1 \
